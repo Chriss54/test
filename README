@@ -1,0 +1,6 @@
+git clone https://github.com/Chriss54/test
+cd test
+echo "# Test Repository" > README.md
+git add README.md
+git commit -m "Initial commit"
+git push origin main
